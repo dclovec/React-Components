@@ -17,3 +17,7 @@ Just like its name, it's a editable select html element component.To get its val
     console.log(es.value);//the selected value. 
     //                      maybe the selected value("0"/"1"/"2") or the string user entered.
   ```
+While inited:
+![img](https://raw.githubusercontent.com/dclovec/React-Components/master/normal.png)<br />
+While focused:
+![img](https://raw.githubusercontent.com/dclovec/React-Components/master/focus.png)
