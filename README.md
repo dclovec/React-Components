@@ -3,7 +3,7 @@ Some react components.
     Save mind.
 
 EditableSelect
-===
+----
 Just like its name, it's a editable select html element component.To get its value, use "*instance.value*".<br />
 **Example**:
   ```javascript
