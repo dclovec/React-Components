@@ -37,7 +37,8 @@ It's like the right-click menu in windows, can have one-level sub-menus<br />
         container
     );
    ```
-**Note**:This is customized for my project,you can change it!(By default, need jquery)
+**Note**:
+<pre>This is customized for my project,you can change it!(By default, need jquery)
    The prop "menus" is important, it's a array of menu data:
       while no sub-menus:
         {
@@ -64,7 +65,7 @@ It's like the right-click menu in windows, can have one-level sub-menus<br />
                         |              |
                         | sub menu 2-2 |
                         |______________|
-
+                        
   above menu, need thus menu object array:
     [
       {
@@ -85,3 +86,4 @@ It's like the right-click menu in windows, can have one-level sub-menus<br />
         ]
       }
     ]
+    </pre>
